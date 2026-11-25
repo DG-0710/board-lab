@@ -2,6 +2,8 @@ import { useState } from 'react';
 import Header from './components/Header.jsx';
 import PostList from './components/PostList.jsx';
 import './App.css';
+import QuickView from './components/QuickView.jsx';
+<QuickView></QuickView>
 import PostForm from './components/PostForm.jsx';
 
 function App() {
